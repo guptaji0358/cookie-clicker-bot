@@ -266,4 +266,4 @@ This project was created for educational and learning purposes only.
 
 Built with Python and Selenium 🚀
 
-**Robin Gu-pta**
+**Robin Gupta**
