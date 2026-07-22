@@ -84,13 +84,9 @@ The bot:
 
 # 🎬 Demo
 
-(Add your GIF/video here)
-
-Example:
-
-```markdown
-![Demo](https://files.catbox.moe/0jhhdg.mp4)
-```
+<div align="center">
+  <video src="https://files.catbox.moe/0jhhdg.mp4" autoplay loop muted playsinline width="100%"></video>
+</div>
 
 ---
 
