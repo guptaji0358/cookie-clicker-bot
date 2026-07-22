@@ -85,7 +85,7 @@ The bot:
 # 🎬 Demo
 
 <div align="center">
-  <video src="https://files.catbox.moe/0jhhdg.mp4" autoplay loop muted playsinline width="100%"></video>
+  <video src="https://www.youtube.com/watch?v=snG523oDSCo&list=PLY6oafuySDAE&index=2"></video>
 </div>
 
 ---
