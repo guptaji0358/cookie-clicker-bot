@@ -85,7 +85,10 @@ The bot:
 # 🎬 Demo
 
 <div align="center">
-  <video src="https://www.youtube.com/watch?v=snG523oDSCo&list=PLY6oafuySDAE&index=2"></video>
+  <a href="https://www.youtube.com/watch?v=snG523oDSCo">
+    <img src="https://img.youtube.com/vi/snG523oDSCo/maxresdefault.jpg" alt="Cookie Clicker Bot Demo" width="100%" />
+  </a>
+  <p><i>▶️ Click the image above to watch the demo on YouTube</i></p>
 </div>
 
 ---
