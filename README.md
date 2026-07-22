@@ -16,7 +16,8 @@
   <p>
     <img src="https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
     <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
-    <img src="https://img.shields.io/badge/Chrome_Driver-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chrome" />
+    <img src="https://img.shields.io/badge/ChatGPT-742774?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
+    <img src="https://img.shields.io/badge/AI_Automation-FF6F00?style=for-the-badge&logo=probot&logoColor=white" alt="AI Automation" />
     <img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge" alt="License" />
   </p>
 
