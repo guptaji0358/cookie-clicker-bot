@@ -2,8 +2,8 @@
 
   <!-- TOP GRAPHIC BANNER -->
   <a href="https://github.com/guptaji0358/cookie-clicker-bot">
-    <img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&customColorList=10,12,15&height=200&section=header&text=🍪%20Cookie%20Clicker%20Bot&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=38" width="100%" alt="Header Banner" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Cookie%20Clicker%20Bot&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=38" width="100%" alt="Header Banner" />
+</a>
 
   <h3><code>DAY 48 / 100 DAYS OF CODE</code></h3>
   <p><b>An Autonomous, AI-Enhanced Web Automation Engine Built with Python & Selenium</b></p>
@@ -284,8 +284,8 @@ cd cookie-clicker-bot</code></pre>
 
   <!-- BOTTOM GRAPHIC BANNER -->
   <a href="https://github.com/guptaji0358/cookie-clicker-bot">
-    <img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&customColorList=10,12,15&height=120&section=footer" width="100%" alt="Footer Banner" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%" alt="Footer Banner" />
+</a>
 
   <p><sub>Crafted with ❤️ by <b>Robin Gupta</b></sub></p>
 
